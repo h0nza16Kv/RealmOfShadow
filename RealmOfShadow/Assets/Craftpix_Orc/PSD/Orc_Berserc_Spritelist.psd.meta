@@ -1,0 +1,1108 @@
+fileFormatVersion: 2
+guid: 7d2342844fb03674da847a73ae05ec8e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 864
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4e7547e527eaf44b8921cfb6af755c
+      internalID: -1869552547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 864
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec670f5d6ede40429b44c67dd668142
+      internalID: -1351175627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 864
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e2da2f525270841832411deb4b0436
+      internalID: 719423056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 864
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6954f47e9d634347abb5554da685920
+      internalID: 591105547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 864
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919fa47b7dcb35249bfa2abf44275c80
+      internalID: -1669756941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 768
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a7b89cbf00ea64b8145708f489aa94
+      internalID: 360222939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 768
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc5be548efc4c84081eaea64696a0bd
+      internalID: 1723822612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 768
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a04dc57a019b2a45adca67ccbb7260d
+      internalID: -1110094873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 768
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d020bad4d381a0408e81376f210ec35
+      internalID: -345051073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 768
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d50423f6f040804bb34036230ec513a
+      internalID: 1332706602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 768
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffcc27698b20b74dbafa3d419bf38f2
+      internalID: -1925249448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 768
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e73343c4724f64f911ad8497196f96
+      internalID: -1796179615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 672
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4307c6d378c6908438d472bf11223793
+      internalID: -265125659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 672
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc8530dd5cff0148bc584747dca5649
+      internalID: 2085350853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 672
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5990802662ddbbf47987dc442a72f190
+      internalID: -227278706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 672
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a41d02edbbd0ea4c8f5b6dd246572b3
+      internalID: 1409560243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 672
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c53d1b676464974c9440831c50b4e7d
+      internalID: -7249585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 672
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f780cf6280366c2448b370e928a1758d
+      internalID: 1534009981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 576
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c202493976672d44a62af3b66334c8d
+      internalID: -131159264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 588
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d109f9e7a99c93542a4d217d65f6453b
+      internalID: 1131630647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 584
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe49d4781f048fa45baafdd0ec1cbdff
+      internalID: 701325405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 576
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88af21871a8e71b47a3821eafda95cbe
+      internalID: 1169482421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 576
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f237a1884c013df40981cf49c841c263
+      internalID: -1364741149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 480
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0d3c2148bd3214cb5945fc7ba744ab
+      internalID: -1657702084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 480
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23d60c23193b2d488bf5b144dd6fe19
+      internalID: 998295355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 480
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562fa1eeabba7fc4fba89687bc10bc7f
+      internalID: -1975333589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 480
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8a565fcca4c7544806cba703441d91
+      internalID: -628643317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 384
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6384ae27f462547a0023bf6c0c7eae
+      internalID: -1560413281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 384
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647f7a1eb33d52641a616ecb012abfd6
+      internalID: 1931143360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 384
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1130a35f4df62c64cae28038c82e61e5
+      internalID: -380180983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 384
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d9f7963fd867749b5e1e110fd782b1
+      internalID: 187318508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 384
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88382f173797f345845d1ff9defda39
+      internalID: 628825086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 288
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb1d740c8dd3e447abd5119558767a3
+      internalID: -1307962681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 288
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb445b55b5ee58b4f92951607fdae871
+      internalID: -1248856173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 192
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4905a71951702498c48825e2af163f
+      internalID: -141693151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 192
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c70a55aa9931747832b6a9ffe7a26d
+      internalID: -2123020150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 203
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24526c377986d3640bda5510e743f90b
+      internalID: -1306491013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 203
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c80bfd4c46cbd348aac13f7a29aea7b
+      internalID: 444459651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 192
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af7e3c56b0a1804497077c41bbdacca
+      internalID: -885513895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 96
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaa1f467ad92d641b6904c2e5410522
+      internalID: 282004041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 96
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9675fd853d4e2224e9a6d41b7746e6fa
+      internalID: -800259353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8398ab9b8125f3049ae76ea4de674dbb
+      internalID: 241042488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b5b0906daf8754a87760321e177687
+      internalID: 1291890232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6702a109ec54f8c47b353cec49ee5889
+      internalID: -1442615281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Berserc_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3465f1b0f0b93946a2e78d8c8ac1d53
+      internalID: 1700867137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Orc_Berserc_Spritelist_0: -1869552547
+      Orc_Berserc_Spritelist_1: -1351175627
+      Orc_Berserc_Spritelist_10: -1925249448
+      Orc_Berserc_Spritelist_11: -1796179615
+      Orc_Berserc_Spritelist_12: -265125659
+      Orc_Berserc_Spritelist_13: 2085350853
+      Orc_Berserc_Spritelist_14: -227278706
+      Orc_Berserc_Spritelist_15: 1409560243
+      Orc_Berserc_Spritelist_16: -7249585
+      Orc_Berserc_Spritelist_17: 1534009981
+      Orc_Berserc_Spritelist_18: -131159264
+      Orc_Berserc_Spritelist_19: 1131630647
+      Orc_Berserc_Spritelist_2: 719423056
+      Orc_Berserc_Spritelist_20: 701325405
+      Orc_Berserc_Spritelist_21: 1169482421
+      Orc_Berserc_Spritelist_22: 1554284117
+      Orc_Berserc_Spritelist_23: -982922111
+      Orc_Berserc_Spritelist_24: -1364741149
+      Orc_Berserc_Spritelist_25: -1657702084
+      Orc_Berserc_Spritelist_26: 998295355
+      Orc_Berserc_Spritelist_27: -1975333589
+      Orc_Berserc_Spritelist_28: 2034256314
+      Orc_Berserc_Spritelist_29: -628643317
+      Orc_Berserc_Spritelist_3: 591105547
+      Orc_Berserc_Spritelist_30: -1560413281
+      Orc_Berserc_Spritelist_31: 1931143360
+      Orc_Berserc_Spritelist_32: -380180983
+      Orc_Berserc_Spritelist_33: 187318508
+      Orc_Berserc_Spritelist_34: 1148452490
+      Orc_Berserc_Spritelist_35: 628825086
+      Orc_Berserc_Spritelist_36: -1307962681
+      Orc_Berserc_Spritelist_37: -1248856173
+      Orc_Berserc_Spritelist_38: -141693151
+      Orc_Berserc_Spritelist_39: -2123020150
+      Orc_Berserc_Spritelist_4: -1669756941
+      Orc_Berserc_Spritelist_40: -1306491013
+      Orc_Berserc_Spritelist_41: 444459651
+      Orc_Berserc_Spritelist_42: -885513895
+      Orc_Berserc_Spritelist_43: 282004041
+      Orc_Berserc_Spritelist_44: -800259353
+      Orc_Berserc_Spritelist_45: 241042488
+      Orc_Berserc_Spritelist_46: 1291890232
+      Orc_Berserc_Spritelist_47: -1442615281
+      Orc_Berserc_Spritelist_48: 1700867137
+      Orc_Berserc_Spritelist_5: 360222939
+      Orc_Berserc_Spritelist_6: 1723822612
+      Orc_Berserc_Spritelist_7: -1110094873
+      Orc_Berserc_Spritelist_8: -345051073
+      Orc_Berserc_Spritelist_9: 1332706602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
